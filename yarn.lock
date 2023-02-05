@@ -7112,7 +7112,9 @@
     "@corex/deepmerge" "^4.0.29"
     "minimist" "^1.2.6"
 
-"next@*", "next@^12.1.0", "next@>=10.2.0":
+"next@*", "next@^12.3.4", "next@>=10.2.0":
+  "integrity" "sha512-VcyMJUtLZBGzLKo3oMxrEF0stxh8HwuW976pAzlHhI3t8qJ4SROjCrSh1T24bhrbjw55wfZXAbXPGwPt5FLRfQ=="
+  "resolved" "https://registry.npmjs.org/next/-/next-12.3.4.tgz"
   "version" "12.3.4"
   dependencies:
     "@next/env" "12.3.4"
