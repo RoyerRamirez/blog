@@ -4,6 +4,9 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+  schedule:
+    #TODO(royerruiz): Adding temporary fix to rebuild site every day. App does not refresh gracefully behind the scenes.  
+    - cron: "0 11 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
