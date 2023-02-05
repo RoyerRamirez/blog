@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://blog.royerramirez.com
+
+# Sitemaps
+Sitemap: https://blog.royerramirez.com/sitemap.xml
