@@ -60,6 +60,6 @@ const CONFIG = {
       label: '💬 Utterances',
     }
   },
-  isProd: true
+  isProd: process.env.VERCEL_ENV === 'production' 
 }
 module.exports = CONFIG
