@@ -5,17 +5,16 @@ const CONFIG = {
     image: '/avatar.jpg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'Sr. DevOps Engineer @ Rivian',
     bio: 'Welcome to my technical blog where you can find my curated notes for everything DevOps.',
-    email: '',
+    email: 'info@royerramirez.com',
     linkedin: 'royerramirezruiz',
     github: 'https://github.com/royerramirez',
     instagram: '_royer',
     website: "https://royerramirez.com"
   },
   projects: [
-    // TODo(royerramirez): Add current projects here
     {
-      name: `TODO(royerruiz): Add current projects here`,
-      href: 'https://github.com/royerramirez'
+      name: `Entegrity enForm`,
+      href: 'https://apps.apple.com/us/app/enform/id1460769971'
     }
   ],
   // blog setting (required)
