@@ -13,8 +13,16 @@ const CONFIG = {
   },
   projects: [
     {
+      name: `Camp CTL`,
+      href: 'https://campctl.com'
+    },
+    {
       name: `Entegrity enForm`,
       href: 'https://apps.apple.com/us/app/enform/id1460769971'
+    },
+    {
+      name: `Nature CTL`,
+      href: 'https://naturectl.com'
     }
   ],
   // blog setting (required)
