@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: 'Royer Ramirez Ruiz',
     image: '/avatar.jpg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: 'Sr. DevOps Engineer @ Rivian',
-    bio: 'Welcome to my technical blog where you can find my curated notes for everything DevOps.',
+    role: 'Staff Engineer - DevOps & MLOps @ Maven Robotics',
+    bio: 'Welcome to my technical blog where you can find my curated notes for everything DevOps & MLOps.',
     email: 'info@royerramirez.com',
     linkedin: 'royerramirezruiz',
     github: 'https://github.com/royerramirez',
